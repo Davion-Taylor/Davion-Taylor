@@ -1,4 +1,3 @@
-# [![Hello, I'm Davion Taylor](https://vercel.app!)](https://github.com)
 <h1 align="center">Hello, I'm Davion Taylor </h1>
 
 ### About Me
