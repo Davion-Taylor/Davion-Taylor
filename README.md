@@ -1,8 +1,8 @@
 <h1 align="center">Hello, I'm Davion Taylor </h1>
 
 
-### About Me
-<hr>
+### About Me </h1>
+
 Cybersecurity specialist who enjoys building automated defense tools, hunting through logs for hidden threats, and breaking down network traffic. I focus on blue-team operations, real-time intrusion monitoring, and designing secure architecture.
 
 ### Technical Skills
