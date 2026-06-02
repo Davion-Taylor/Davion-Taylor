@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Davion Taylor 👋</h1>
+<h1 align="center">Hi, I'm Davion Taylor </h1>
 
 
 ### About Me
